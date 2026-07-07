@@ -1,0 +1,9 @@
+# Admin Setup
+Category: 1449971845725032559
+
+# Leaderboard Channels Config (leave null to disable)
+Laedearboards:
+  monthly:
+    channelId: 1449975802446876853
+  All:
+    channelId: 1449975734075658240

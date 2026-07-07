@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "axios": "^1.7.9",
+    "discord": "^0.8.2",
+    "discord.js": "^14.25.1",
+    "dotenv": "^16.6.1"
+  },
+  "name": "bot-amanlvl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup-git-hook": "echo '#!/bin/sh\\n git add .\\n git commit -m \"Auto commit\"\\n git push' > .git/hooks/post-commit && chmod +x .git/hooks/post-commit"
+  },
+  "keywords": [],
+  "author": "luhnox",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
