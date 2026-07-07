@@ -1,0 +1,50 @@
+[
+    {
+        "pack_1": {
+            "name": "Small pack",
+            "xp": 125500,
+            "price": 1800,
+            "duration": 5,
+            "emoji": ""
+        },
+        "profit": 240,
+        "seed": 100,
+        "jar": 30
+    },
+    {
+        "pack_2": {
+            "name": "Medium Pack",
+            "xp": 525000,
+            "price": 4000,
+            "duration": 15,
+            "emoji": ""
+        },
+        "profit": 160,
+        "seed": 400,
+        "jar": 90
+    },
+    {
+        "pack_3": {
+            "name": "Large Pack",
+            "xp": 1100000,
+            "price": 7500,
+            "duration": 30,
+            "emoji": ""
+        },
+        "profit": 150,
+        "seed": 800,
+        "jar": 190
+    },
+    {
+        "pack_4": {
+            "name": "",
+            "xp": null,
+            "price": null,
+            "duration": null,
+            "emoji": ""
+        },
+        "profit": null,
+        "seed": null,
+        "jar": null
+    }
+]
